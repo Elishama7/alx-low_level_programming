@@ -1,21 +1,21 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - Entry point
  *
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
-	char abc;
+	char c;
 
-	for (abc = 'a'; abc <= 'z'; abc++)
-	{
-	if (abc == 'q' || abc == 'e')
-	{
-	continue;
-	}
-	putchar(abc);
-	}
+	c = 'a';
+	while
+		(c <= 'z') {
+			if ((c != 'q' && c != 'e') && c <= 'z')
+				putchar(c);
+			c++,
+		}
 	putchar('\n');
 	return (0);
 }
