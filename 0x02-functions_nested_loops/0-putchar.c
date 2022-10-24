@@ -2,7 +2,6 @@
 /**
  * main - print _putchar
  * code by ELishama
- *
  * Return: 0
  */
 int main(void)
