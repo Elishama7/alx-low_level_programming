@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * main - Print putchar
- * by ELishama
+ * main - print _putchar
+ * code by ELishama
+ *
  * Return: 0
  */
-
 int main(void)
 {
 	_putchar('_');
