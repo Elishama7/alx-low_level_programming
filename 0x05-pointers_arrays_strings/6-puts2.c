@@ -3,6 +3,7 @@
 /**
  * puts2 - print one character out o the two
  * @str: output
+ * Return: print
  */
 void puts2(char *str)
 {
