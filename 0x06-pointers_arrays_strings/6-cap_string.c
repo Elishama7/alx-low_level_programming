@@ -5,6 +5,7 @@
  * @a: string to capitalize
  * Return: capitalized words
  */
+
 char *cap_string(char *a)
 {
 	int i, x;
